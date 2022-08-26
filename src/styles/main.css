@@ -1,0 +1,13 @@
+@import "vendor/normalize.css";
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.webpack-img {
+  width: 100%;
+  height: 100%;
+}
+
